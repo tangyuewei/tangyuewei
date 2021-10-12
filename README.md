@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on p5w
 - 🌱 I’m currently learning go and vue
 - 👯 I want to find teammates who drink and brag
-- 🤔 I’m waiting for Liu Bei
+- 🤔 I’m waiting for you
 - 💬 Ask me about Micro Service
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
+- 📫 How to reach me: call 114
+- 😄 Pronouns: code farmer
 - ⚡ Fun fact: I'm rubbish😄
 >[唐悦玮](tangyuewei.com)
