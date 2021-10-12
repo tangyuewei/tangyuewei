@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on p5w
+- 🌱 I’m currently learning go and vue
+- 👯 I want to find teammates who drink and brag
+- 🤔 I’m waiting for Liu Bei
+- 💬 Ask me about Micro Service
+- 📫 How to reach me: 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I'm rubbish😄
+>[唐悦玮](tangyuewei.com)
